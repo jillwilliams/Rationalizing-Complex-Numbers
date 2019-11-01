@@ -1,0 +1,59 @@
+body {
+    font-family: "Amatic SC", cursive;
+    color: white;
+    letter-spacing: 5px;
+    background-image: linear-gradient(black, purple);
+    margin: 15px 25px 25px 45px;
+    font-size: 1.5rem;
+}
+h1 {
+    text-align: center;
+    text-shadow: 1px 1px 1px red;
+    font-size: 2.5rem;
+}
+h2 {
+    font-size: 2rem;
+}
+#img1 {
+    width: 15%;
+    height: auto;
+    margin-left: 42.5%;
+    margin-right: 42.5%;
+    border: 1px black solid;
+    outline: 1px red solid;
+}
+#img2 {
+    width: 15%;
+    height: auto;
+    margin-left: 42.5%;
+    margin-right: 42.5%;
+    border: 1px black solid;
+    outline: 1px red solid;
+}
+#img3 {
+    width: 15%;
+    height: auto;
+    margin-left: 42.5%;
+    margin-right: 42.5%;
+    border: 1px black solid;
+    outline: 1px red solid;
+}
+#img4 {
+    width: 15%;
+    height: auto;
+    margin-left: 42.5%;
+    margin-right: 42.5%;
+    border: 1px black solid;
+    outline: 1px red solid;
+}
+#img5 {
+    width: 15%;
+    height: auto;
+    margin-left: 42.5%;
+    margin-right: 42.5%;
+    border: 1px black solid;
+    outline: 1px red solid;
+}
+footer {
+    text-align: center;
+}
